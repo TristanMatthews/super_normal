@@ -1,0 +1,12 @@
+__pycache__
+*.swp
+*.pyc
+.ipynb_checkpoints
+*.log
+*.DS_Store
+.cache/
+*db.sqlite3
+.coverage
+.idea
+#ignore games.
+super_normal_games/*
